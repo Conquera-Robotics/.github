@@ -2,9 +2,13 @@
 
 ## We love to code!!! And we build cool stuff, such as autonomous and teleoperated controlling for robots.
 
-### Please take a look at our repos,
+### Don't forget to check our social media accounts and website
 
-...and don't forget to follow us on @conquera8557 !!!
+website: conquera8557.com
+instagram: instagram.com/conquera8557/
+linkedin: linkedin.com/company/conquera-frc-team-8557
+twitter: https://twitter.com/ConqueraF
+
 
 
 
